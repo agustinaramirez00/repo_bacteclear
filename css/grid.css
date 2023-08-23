@@ -1,0 +1,23 @@
+/*.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 5px);
+    column-gap: 20px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border: 1px;
+      }*/
+
+      /*media queries*/
+
+      @media (min-width: 600px) and (max-width: 768px) {
+        .navbar ul {
+            justify-content: space-around;
+        }
+
+        .navbar ul li {
+            text-transform: uppercase;
+        }
+      }
+
+      
