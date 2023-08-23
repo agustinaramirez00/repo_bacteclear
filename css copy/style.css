@@ -4,7 +4,9 @@
 }
 
 
+body{
 
+}
 
 h1{
     color: red;
@@ -108,14 +110,12 @@ nav.inicio{
         position: absolute;
     }
     
-    .label: .menu; { 
-        display: block-size: 
+    .label: .menu; {
+display: block-size: 
 margin-left: 10px;
     }
-    {
-        #checkbox-menu: :checked ~ ul
-    }
-   
+    #checkbox-menu: :checked ~ ul
+} 
 
 /*estilos pagina contacto*/
 
